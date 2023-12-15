@@ -1,4 +1,4 @@
-# The dangers of our information ecosystem 
+# The dangers of our information ecosystem
 **Keywords**: digital identities, existencial risks, mass communication, sense-making, manipulation, institution, behaviour, social media, disinformation, echo chambers
   
 ## Introduction
