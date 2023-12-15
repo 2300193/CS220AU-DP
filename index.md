@@ -88,12 +88,7 @@ International Standards and Agreements: The creation of international standards 
 Transparency in Communication: Transparency in communication between nations can help to dispel misunderstandings and promote mutual understanding, thereby reducing vulnerability to misinformation.
 
 ## Image credit
-## References
-- [^1]: S;, G.M. (2020) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023).
-- Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060.
-- Reisach, U. (2021) ‘The responsibility of social media in times of societal and political manipulation’, European Journal of Operational Research, 291(3), pp. 906–917. doi:10.1016/j.ejor.2020.09.020.
-- Liao, S.-H., Widowati, R. and Hsieh, Y.-C. (2021) ‘Investigating online social media users’ behaviors for Social Commerce recommendations’, Technology in Society, 66, p. 101655. doi:10.1016/j.techsoc.2021.101655.
-- la Cour, C. (2020) ‘Theorising Digital Disinformation in international relations’, International Politics, 57(4), pp. 704–723. doi:10.1057/s41311-020-00215-x. 
+ 
 
 
 ## Hyperlinks
@@ -116,5 +111,12 @@ Below you see an example of embedding an image that is found in another reposito
 
 ## More examples
 Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
+
+## References
+- [^1]: S;, G.M. (2020) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023).
+- Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060.
+- Reisach, U. (2021) ‘The responsibility of social media in times of societal and political manipulation’, European Journal of Operational Research, 291(3), pp. 906–917. doi:10.1016/j.ejor.2020.09.020.
+- Liao, S.-H., Widowati, R. and Hsieh, Y.-C. (2021) ‘Investigating online social media users’ behaviors for Social Commerce recommendations’, Technology in Society, 66, p. 101655. doi:10.1016/j.techsoc.2021.101655.
+- la Cour, C. (2020) ‘Theorising Digital Disinformation in international relations’, International Politics, 57(4), pp. 704–723. doi:10.1057/s41311-020-00215-x.
 
 
