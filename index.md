@@ -51,7 +51,8 @@ These algorithms decide what information is shown to a user and have the ability
 Sponsored tweets on Twitter, for example, although a legitimate online advertising tool, can potentially present risks and concerns relating to the manipulation of users' minds. Based on users' psychographic data, sponsored tweets can be targeted very precisely. This means that ads can be designed to tap into the emotions, beliefs, or specific preferences of each user, which can be perceived as subtle manipulation of thoughts and behaviours.
 
 In general, most users recognise sponsored tweets and don't 'fall' into the trap of just reading them without trying to analyse them. 
-<p align="center"> <img src="![tweet1](assets/img/tweet1.png)" /> </p>
+
+<p align="center"> <img width="600" height="200" src="assets/img/tweet1.png"> </p>
 
 
 ![tweet1](assets/img/tweet1.png)
