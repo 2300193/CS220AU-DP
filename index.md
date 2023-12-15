@@ -79,6 +79,7 @@ In the event of an actual war, social media networks can serve as a tool for ind
 
 ## Conclusion
 ### Areas for improvement and sense-making
+source : Schmachtenberger Daniel???
 Raising awareness and our Sense making: be subjective, look at sources
 
 Information sharing: Countries need to share intelligence on disinformation campaigns, strengthening the collective ability to identify and counter these threats.
@@ -87,8 +88,8 @@ International Standards and Agreements: The creation of international standards 
 
 Transparency in Communication: Transparency in communication between nations can help to dispel misunderstandings and promote mutual understanding, thereby reducing vulnerability to misinformation.
 
-## image credit
-## references
+## Image credit
+## References
 - S;, G.M. (2020) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023).
 - Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060.
 - Reisach, U. (2021) ‘The responsibility of social media in times of societal and political manipulation’, European Journal of Operational Research, 291(3), pp. 906–917. doi:10.1016/j.ejor.2020.09.020.
