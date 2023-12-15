@@ -55,7 +55,7 @@ In general, most users recognise sponsored tweets and don't 'fall' into the trap
 <picture align="center">
 ![tweet1](assets/img/tweet1.png)
 ![tweet2](assets/img/tweet2.png)
-</picture>
+</picture> 
 
 However, as we can see from our two examples, sponsored tweets do provoke strong emotions in some users, such as anger or disgust. Without realising it, people can feed their negative emotions by spending just a little time - and sometimes just a few minutes - on Twitter. This will contribute to the radicalisation of opinions shared on the internet, generating waves of anger towards a government, an institution or a person.
 
