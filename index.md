@@ -81,40 +81,23 @@ Misinformation has also a significant influence on international relations, cont
 In the event of an actual war, social media networks can serve as a tool for indirect offensives, encompassing covert media manipulation, dissemination of rumors, provocation of internal conflicts within the targeted party, and the spread of tension and negative emotions(Chen, L., Chen, J. and Xia, C.,2022) [^6].
 
 ## Conclusion
+
+Our discussions have enabled us to understand how our current information system can represent a danger to humanity. First of all, by proving that disinformation and the creation of echo chambers are omnipresent in the digital world, and that these two phenomena are linked to a system of manipulation controlled by large institutions. Secondly, we analysed how technological giants influence public opinion using social networks.  Finally, after reflecting on the issues raised by our data on the net, we were able to consider the possible consequences of all these phenomena on national and international conflicts.
+
+We are now faced with the task of finding and conceiving lasting solutions that will enable us to ensure our safety in the future, taking into account all the issues raised in our research.
+
 ### Areas for improvement and sense-making
-source : Schmachtenberger Daniel???
-Raising awareness and our Sense making: be subjective, look at sources
 
-Information sharing: Countries need to share intelligence on disinformation campaigns, strengthening the collective ability to identify and counter these threats.
+To counter disinformation effectively, it is crucial to adopt an ojective approach by encouraging awareness and consciousness-raising, as Daniel Schmartenberger points out in his work on sense-making. Individuals need to be trained to critically examine sources of information, developing a capacity for analysis that strengthens their resilience in the face of information manipulation.
 
-International Standards and Agreements: The creation of international standards and agreements on combating disinformation can establish common guidelines and mechanisms for cooperation.
+Similarly, international cooperation is essential in the fight against disinformation. Countries need to establish a culture of sharing information about disinformation campaigns. A decision of this kind would strengthen the collective ability to identify the tactics employed and implement coordinated countermeasures, thus creating a common defence against informational threats.
 
-Transparency in Communication: Transparency in communication between nations can help to dispel misunderstandings and promote mutual understanding, thereby reducing vulnerability to misinformation.
+To achieve this goal, the creation of international standards and agreements could be a crucial step in building robust defences against disinformation on a global scale. These standards would provide common guidelines for nations, establishing a structured framework for cooperation to counter disinformation campaigns. International agreements strengthen collaboration and accountability, helping to contain the spread of false information.
+
+Finally, transparency in communication between nations is a powerful remedy against disinformation. By encouraging an open and honest exchange of information, misunderstandings are dispelled and mutual understanding is strengthened. This transparency helps reduce vulnerability to misinformation by fostering an environment where facts are clearly presented, thereby limiting the opportunities for information to be exploited for malicious purposes.
 
 ## Image credit
  
-
-
-## Hyperlinks
-[This](checklist.md) is an internal link to another page on your site. 
-
-And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
-
-## Embedding images
-Below you see an example of embedding an image that is found in this repository's assets/img folder: 
-
-![Plain VR map](assets/img/vr-map-plain.svg)
-
-Below you see an example of embedding an image that is found in another repository:
-
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
-
-## Embedding video players
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## More examples
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
 
 ## References
 [^1]: S;, G.M. (2020) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023).
