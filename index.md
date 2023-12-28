@@ -52,7 +52,7 @@ Sponsored tweets on Twitter, for example, although a legitimate online advertisi
 
 In general, most users recognise sponsored tweets and don't 'fall' into the trap of just reading them without trying to analyse them. 
 
-<p align="center"> <img width="600" height="200" src="assets/img/tweet1.png"> </p>
+<p align="center"> <img width="300" src="assets/img/tweet1.png"> </p>
 
 
 ![tweet1](assets/img/tweet1.png)
