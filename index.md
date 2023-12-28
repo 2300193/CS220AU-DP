@@ -52,11 +52,8 @@ Sponsored tweets on Twitter, for example, although a legitimate online advertisi
 
 In general, most users recognise sponsored tweets and don't 'fall' into the trap of just reading them without trying to analyse them. 
 
-<p align="center"> <img width="500" src="assets/img/tweet1.png"> 
-<img width="500" src="assets/img/tweet2.png">
-</p>
-
-
+<p align="center"> <img width="500" src="assets/img/tweet1.png"> </p>
+<p align="center"> <img width="500" src="assets/img/tweet2.png"> </p>
 
 However, as we can see from our two examples, sponsored tweets do provoke strong emotions in some users, such as anger or disgust. Without realising it, people can feed their negative emotions by spending just a little time - and sometimes just a few minutes - on Twitter. This will contribute to the radicalisation of opinions shared on the internet, generating waves of anger towards a government, an institution or a person.
 
