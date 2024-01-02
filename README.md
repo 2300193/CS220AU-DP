@@ -22,16 +22,15 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. refining the list of key words
-2. search for more relevant litterature?
-3. Write conclusion + recommendations + proofread what I already wrote
-4. Create a visual for the banner of the index
-5. Write a paragraph to explain the essay and put it in the overview
+1. Complete the assessement file
+2. Write the overview of my website
+3. proofread my essay after being reviewed by my classmate and the teacher
    
 
 ## Log
-- 2024-01-02 Created visuals in order to make my essay more eye-catching
+- 2024-01-02 Created a banner in order to make my essay more eye-catching
 - 2023-12-28 Wrote the conclusion and the recommmandiations of my essay
+- 2023-12-18 Read and reviewed the work of one of my classmate
 - 2023-12-14 Continued writing my essay (Second part and searched for relevant litterature)+ adapted my plan
 - 2023-12-11 Continued writing my essay (introduction and First part)
 - 2023-12-05 Started writing some parts of my drafts + other references
