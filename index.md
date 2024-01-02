@@ -1,4 +1,5 @@
 # The dangers of our information ecosystem
+<p align="center"> <img width="500" src="assets/img/banner.png"> </p>
 **Keywords**: digital identities, existencial risks, mass communication, sense-making, manipulation, institution, behaviour, social media, disinformation, echo chambers
   
 ## Introduction
@@ -97,7 +98,7 @@ To achieve this goal, the creation of international standards and agreements cou
 Finally, transparency in communication between nations is a powerful remedy against disinformation. By encouraging an open and honest exchange of information, misunderstandings are dispelled and mutual understanding is strengthened. This transparency helps reduce vulnerability to misinformation by fostering an environment where facts are clearly presented, thereby limiting the opportunities for information to be exploited for malicious purposes.
 
 ## Image credit
- 
+Banner : photo by Kelly https://www.pexels.com/fr-fr/photo/gens-nuit-rue-sombre-4570692/
 
 ## References
 [^1]: S;, G.M. (2020) Information and disinformation: Social media in the COVID-19 crisis, Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. Available at: https://pubmed.ncbi.nlm.nih.gov/32474977/ (Accessed: 11 December 2023).
