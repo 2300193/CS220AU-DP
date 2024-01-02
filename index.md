@@ -2,6 +2,7 @@
 <p align="center"> <img width="1000" src="assets/img/banner1.png"> </p>
 
 _banner : layout by Claudie M, photo by Kelly_
+
 **Keywords**: digital identities, existencial risks, mass communication, sense-making, manipulation, institution, behaviour, social media, disinformation, echo chambers
   
 ## Introduction
