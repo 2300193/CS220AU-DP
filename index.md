@@ -1,5 +1,5 @@
-# The dangers of our information ecosystem 
-<p align="center"> <img width="1000" src="assets/img/banner.png"> </p>
+# The dangers of our information ecosystem
+<p align="center"> <img width="1000" src="assets/img/banner1.png"> </p>
 **Keywords**: digital identities, existencial risks, mass communication, sense-making, manipulation, institution, behaviour, social media, disinformation, echo chambers
   
 ## Introduction
