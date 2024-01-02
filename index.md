@@ -28,7 +28,7 @@ Another more accessible example is the film 'Don't look up' on the Netflix platf
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JQERWWbnA5c?si=t3U8YDuNiRgYRCMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
-The clip you can see is a good illustration of how institutions can distort reality and manipulate public opinion: all the President had to do in order to manipulate a whole section of the population was to boost their egos by making fun of those who are afraid, and by using an enticing slogan. It also shows the extent to which over-frequent use of social networks can lead to the polarisation of society, as in this film, where we can see the population clearly divide itslef into "belivers" and "non-believers".
+The clip you can see is a good illustration of how institutions can distort reality and manipulate public opinion: all the President had to do in order to manipulate a whole section of the population was to boost their egos by making fun of those who are afraid, and by using an enticing slogan. It also shows the extent to which over-frequent use of social networks can lead to the polarisation of society, as in this movie, where we can see the population clearly divide itself into "belivers" and "non-believers".
 
 ### Echo chambers
 Therefore algorithms, by calculating regularities in behaviour to establish a user profile, contribute to a form of isolation for Internet users. In reality, each person accesses a different version of the Web, which locks them into a "unique and optimised" bubble.
