@@ -49,10 +49,18 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |  o  |     |     |
-| 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
-| 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 1.1       |     |     |     |     |  o  |
+| 1.2       |     |     |     |     |  o  |
+| 2.1       |     |     |     |     |  o  |
+| 2.2       |     |     |     |     |  o  |
+| 3.1       |     |     |     |     |  o  |
 
-Feedback given by: <!-- add student number and date -->
+Feedback given by: the 02/01/2024<!-- add student number and date -->
+
+The student's essay is interesting. I thoroughly enjoyed their writing style as it contributes to a very smooth reading experience. The decision to create a personal banner is intriguing, adding a personal touch. I appreciate this essay for its wealth of examples and comprehensive gathering of information to address the question, enabling a thorough understanding of the issue. The choice of references, such as the universally experienced COVID situation and examples of tweets, enhances the reader's comprehension, as these are examples most people encounter daily.
+
+I also found the topic appealing, as misinformation is something everyone encounters, even when being cautious.
+
+If there's one aspect that could be improved, despite the numerous examples being a strength, the abundance of them might make the reading a bit abrupt. However, the student has written so well that the overall reading experience remains smooth.
+
+
