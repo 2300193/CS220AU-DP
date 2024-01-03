@@ -1,7 +1,7 @@
 # The dangers of our information ecosystem
 <p align="center"> <img width="1000" src="assets/img/banner1.png"> </p>
 
-_banner : layout by Claudie M, photo by Kelly_
+_Banner : layout by Claudie M, photo by Kelly_
 
 **Keywords**: digital identities, existencial risks, mass communication, sense-making, manipulation, institution, behaviour, social media, disinformation, echo chambers
   
@@ -92,7 +92,7 @@ We are now faced with the task of finding and conceiving lasting solutions that 
 
 ### Areas for improvement and sense-making
 
-To counter disinformation effectively, it is crucial to adopt an ojective approach by encouraging awareness and consciousness-raising, as Daniel Schmartenberger points out in his work on sense-making. Individuals need to be trained to critically examine sources of information, developing a capacity for analysis that strengthens their resilience in the face of information manipulation.
+To counter disinformation effectively, it is crucial to adopt an objective approach by encouraging awareness and consciousness-raising, as Daniel Schmartenberger points out in his work on sense-making. Individuals need to be trained to critically examine sources of information, developing a capacity for analysis that strengthens their resilience in the face of information manipulation.
 
 Similarly, international cooperation is essential in the fight against disinformation. Countries need to establish a culture of sharing information about disinformation campaigns. A decision of this kind would strengthen the collective ability to identify the tactics employed and implement coordinated countermeasures, thus creating a common defence against informational threats.
 
