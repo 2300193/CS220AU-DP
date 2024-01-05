@@ -3,12 +3,12 @@
 
 _Banner : layout by Claudie M, photo by Kelly_
 
-**Keywords**: digital identities, existencial risks, mass communication, sense-making, manipulation, institution, behaviour, social media, disinformation, echo chambers
+**Keywords**: digital identities, existential risks, mass communication, sense-making, manipulation, institution, human behaviour, social media, disinformation, echo chambers
   
 ## Introduction
 Whether in our time or in the past, our behaviour has always been influenced by external factors, like the environment in which we live, the people around us, etc. Various entities such as companies, media outlets, and governments have the ability to shape our decision-making and discourage independent thought. The problem today is that since the invention of mass communication (the press, television), and then the Internet, these external players are increasingly omnipresent in our lives, whether we are aware of it or not, and have a major influence on the decisions we make.
 
-So we can then ask ourselves : How does today’s mass communication, boosted by technology leads to existential risks? How can we be more aware of what information are thrown at us by companies, governments, and medias?
+So we can then ask ourselves : How does today’s mass communication, boosted by technology, leads to existential risks? How can we be more aware of what information are thrown at us by companies, governments, and medias?
 
 In this essay, we will first inform ourselves about the informational dangers inherent in our hyper-connected society, such as disinformation or the manipalutation of public opionion by major institutions, and the resulting creation of echo chambers. Then, we will focus on big companies and what they control, censor, and encourage. And finally, all this might help us understand how these actions can lead to humanity's downfall, by boosting internal conflicts or disputes between countries. All of these reflexions can then motivate us to develop our awareness of these issues so that we can better position ourselves in our society and be mindful of our choices.
 
@@ -74,7 +74,7 @@ Social commerce, by facilitating payments online, can encore more people to pay 
 If a large-scale accident linked to online user data were to occur, it would fuel fear and anger among online users, leading to discontent or even uprisings.
 This is especially true given that user data can be enough to endanger a country internationally, among others various reasons.
 
-### Esclation of tensions and existencial risks
+### Esclation of tensions and existential risks
 
 Data collection can fuel tensions between countries in a number of ways, particularly in the context of cyber security, surveillance and espionage-related activities.  Governments may conduct cyber espionage operations to collect sensitive data on other nations (economic, political, military and technological information). Discovery of such activities can lead to diplomatic tensions and hostile responses between the countries involved.
 In addition to this, international agreements, such as cybersecurity treaties, can be violated when countries carry out aggressive data collection activities. Such violations can lead to diplomatic disagreements and contribute to the escalation of tensions.
