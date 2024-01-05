@@ -92,7 +92,7 @@ We are now faced with the task of finding and conceiving lasting solutions that 
 
 ### Areas for improvement and sense-making
 
-To counter disinformation effectively, it is crucial to adopt an objective approach by encouraging awareness and consciousness-raising, as Daniel Schmartenberger points out in his work on sense-making. Individuals need to be trained to critically examine sources of information, developing a capacity for analysis that strengthens their resilience in the face of information manipulation.
+To counter disinformation effectively, it is crucial to adopt an objective approach by encouraging awareness and consciousness-raising, as Daniel Schmartenberger points out in his work on sense-making [^8]. Individuals need to be trained to critically examine sources of information, developing a capacity for analysis that strengthens their resilience in the face of information manipulation.
 
 Similarly, international cooperation is essential in the fight against disinformation. Countries need to establish a culture of sharing information about disinformation campaigns. A decision of this kind would strengthen the collective ability to identify the tactics employed and implement coordinated countermeasures, thus creating a common defence against informational threats.
 
@@ -108,8 +108,8 @@ Banner : photo by Kelly https://www.pexels.com/fr-fr/photo/gens-nuit-rue-sombre-
 [^2]: Bovet, A. and Makse, H.A. (2019) ‘Influence of fake news in Twitter during the 2016 US presidential election’, Nature Communications, 10(1). doi:10.1038/s41467-018-07761-2. 
 [^3]:Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060.
 [^4]:Reisach, U. (2021) ‘The responsibility of social media in times of societal and political manipulation’, European Journal of Operational Research, 291(3), pp. 906–917. doi:10.1016/j.ejor.2020.09.020.
-
 [^5]:Liao, S.-H., Widowati, R. and Hsieh, Y.-C. (2021) ‘Investigating online social media users’ behaviors for Social Commerce recommendations’, Technology in Society, 66, p. 101655. doi:10.1016/j.techsoc.2021.101655.
 [^6]:la Cour, C. (2020) ‘Theorising Digital Disinformation in international relations’, International Politics, 57(4), pp. 704–723. doi:10.1057/s41311-020-00215-x.
 [^7]:Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060.
+[^8]:The War on Sensemaking (2019). Rebel Wisdom. 19 August. Available at: https://youtu.be/7LqaotiGWjQ?si=UdOoT0cFKZUVeXWw. 
 
