@@ -28,6 +28,7 @@ Instructions on using this GitHub repository as a template for your assignment w
    
 
 ## Log
+- 2024-01-05 Received feedback from the teacher and adjusted my essay ( proofread, rephrasing,found new references)
 - 2024-01-02 Created a banner in order to make my essay more eye-catching + received feedback from one of my classmate
 - 2023-12-28 Wrote the conclusion and the recommmandiations of my essay
 - 2023-12-18 Read and reviewed the work of one of my classmate
