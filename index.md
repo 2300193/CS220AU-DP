@@ -111,5 +111,5 @@ Banner : photo by Kelly https://www.pexels.com/fr-fr/photo/gens-nuit-rue-sombre-
 [^5]:Liao, S.-H., Widowati, R. and Hsieh, Y.-C. (2021) ‘Investigating online social media users’ behaviors for Social Commerce recommendations’, Technology in Society, 66, p. 101655. doi:10.1016/j.techsoc.2021.101655.
 [^6]:la Cour, C. (2020) ‘Theorising Digital Disinformation in international relations’, International Politics, 57(4), pp. 704–723. doi:10.1057/s41311-020-00215-x.
 [^7]:Chen, L., Chen, J. and Xia, C. (2022) ‘Social network behavior and public opinion manipulation’, Journal of Information Security and Applications, 64, p. 103060. doi:10.1016/j.jisa.2021.103060.
-[^8]:The War on Sensemaking (2019). Rebel Wisdom. 19 August. Available at: https://youtu.be/7LqaotiGWjQ?si=UdOoT0cFKZUVeXWw. 
+[^8]:The War on Sensemaking , Daniel Schmartenberger (2019). Rebel Wisdom. 19 August. Available at: https://youtu.be/7LqaotiGWjQ?si=UdOoT0cFKZUVeXWw. 
 
