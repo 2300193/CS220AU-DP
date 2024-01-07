@@ -21,12 +21,11 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 
 
 ## Tasks
-1. Complete the assessement file
-2. Write the overview of my website
-3. proofread my essay after being reviewed by my classmate and the teacher
+1. submit the checklist file on faser
    
 
 ## Log
+- 2024-01-05 Wrote my self assessement ; personnalised my portfolio overview & filled out the checklist file
 - 2024-01-05 Received feedback from the teacher and adjusted my essay ( proofread, rephrasing,found new references)
 - 2024-01-02 Created a banner in order to make my essay more eye-catching + received feedback from one of my classmate
 - 2023-12-28 Wrote the conclusion and the recommmandiations of my essay
