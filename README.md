@@ -1,25 +1,24 @@
-# CS220AU Digital Portfolio Template
+# CS220AU Digital Portfolio 
 
 ## Overview
-The goal of this GitHub repository is to serves as a template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment. It demonstrates minimalistic approaches to:
+The goal of this GitHub repository is to serve as my [CS220AU](https://navigatingthedigitalworld.com/docs/cs220) assignment. It demonstrates my minimalistic approaches to:
 
 - project management using this `README.md` file, organized under the Overview, Tasks, and Log headings
 - web hosting through [GitHub Pages](https://pages.github.com/)
 - web design with [Markdown language](https://guides.github.com/features/mastering-markdown/)
 - self- and peer-assessment via the `assessment.md` and `checklist.md` files
 
-The URL for the website can be located in the sidebar, under the 'About' section. The homepage content is sourced from the `index.md` file.
+The URL for my website can be located in the sidebar, under the 'About' section. The homepage content is sourced from the `index.md` file.
 
 ### Portfolio Items
-Your submitted portfolio should include the following components, along with their respective contribution to your overall mark:
+My portfolio include the following components:
 
-1. **website** (80%): explores your chosen research question across one or multiple webpages
+1. **website** (80%): explores my research question on my webpage. The subject I've chosen to discuss is our information environment, i.e. the information that reaches us in our daily lives, mainly via technological tools such as social networks and the media. In my website, I try to identify the main risks of our information ecosystem, but also those who control the distribution of information and how these risks could potentially harm humanity. I also try to find out what behaviour to adopt in order to better understand the risks associated with the information we receive, and how to improve our security.
 2. **self- and peer-assessment** (10%): utilizes the `assessment.md` file
-3. **portfolio overview** (10%): provides a succinct description of your portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
+3. **portfolio overview** (10%): provides a succinct description of my portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
 
 Once the above items are completed, fill out the `checklist.md` file, download it, and submit on FASER.
 
-Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
 1. Complete the assessement file
