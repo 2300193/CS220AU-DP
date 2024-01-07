@@ -44,6 +44,14 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 | 2.2       |     |     |     |     |  o  |
 | 3.1       |     |     |     |     |  o  |
 
+I think that my work responds well to the two issues addressed in this course, digital identity and existential risks.  My essay manages to link these two themes while proposing credible and feasible solutions that could prevent these risks from escalating. I found relevant references that supported my arguments and managed to integrate them fairly well into my discussions. 
+
+However, my essay could sometimes be improved in its readability, because after rereading and despite my efforts there are still some paragraphs that are harder to read and understand than others. As far as the practical side of my website is concerned, I've managed to understand Markdown language and to integrate several correctly credited media, including the banner, which I designed myself.
+
+In terms of project organisation, I had a rather hectic start to my assignment as I had to change my research question several times, but after this slightly late start I was able to demonstrate regularity and consistency in my work.
+
+To sum up my self-assignment, I'd say that my essay is very good in the sense that I've invested a lot of time in it and I've always tried to work regularly so that I can look back and improve my research and references. I was also able to develop my essay thanks to feedback from my classmates and the teacher, which enabled me to produce a quality piece of work despite some unavoidable writing flaws.
+
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
 
@@ -55,7 +63,7 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 | 2.2       |     |     |     |     |  o  |
 | 3.1       |     |     |     |     |  o  |
 
-Feedback given by: the 02/01/2024<!-- add student number and date -->
+Feedback given by: 2300181 the 02/01/2024
 
 The student's essay is interesting. I thoroughly enjoyed their writing style as it contributes to a very smooth reading experience. The decision to create a personal banner is intriguing, adding a personal touch. I appreciate this essay for its wealth of examples and comprehensive gathering of information to address the question, enabling a thorough understanding of the issue. The choice of references, such as the universally experienced COVID situation and examples of tweets, enhances the reader's comprehension, as these are examples most people encounter daily.
 
